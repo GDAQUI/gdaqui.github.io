@@ -1,0 +1,44 @@
+body{
+    background-color:#333333;
+}
+
+header {
+    background-color: #706c61;
+}
+
+#meu_nome {
+    font-weight: bolder;
+    font-size: 25px;
+    
+}
+
+#tag {
+    margin-top: -1em;
+}
+
+#aproximar {
+    margin-top:-1em;
+}
+#botao {
+    background-color:#00acee;
+    color:white;
+    font-weight: 400;
+    margin-top: 1em;
+    margin-left: 55px;
+}
+
+#titulo_contato {
+    font-weight: bold;
+}
+
+#cor_do_link {
+    color: inherit;
+}
+
+.navbar{
+    margin-bottom: 40px;
+}
+
+.card {
+    margin-bottom: 20px;
+}
